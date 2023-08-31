@@ -12,13 +12,11 @@
 		2380D04F2A9F8C46009A6A5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2380D04E2A9F8C46009A6A5A /* Assets.xcassets */; };
 		2380D0522A9F8C46009A6A5A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2380D0512A9F8C46009A6A5A /* Preview Assets.xcassets */; };
 		2380D05A2A9F8E86009A6A5A /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2380D0592A9F8E86009A6A5A /* NetworkService.swift */; };
+		23D608272AA1075A004640F4 /* new_file-36.riv in Resources */ = {isa = PBXBuildFile; fileRef = 23D608262AA1075A004640F4 /* new_file-36.riv */; };
 		23E95FFC2A9FEBCC00D77826 /* CityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E95FFA2A9FEBCC00D77826 /* CityModel.swift */; };
 		23E95FFD2A9FEBCC00D77826 /* PittsburghWeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E95FFB2A9FEBCC00D77826 /* PittsburghWeatherModel.swift */; };
 		23E960002A9FECB700D77826 /* WeatherProjectViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E95FFF2A9FECB700D77826 /* WeatherProjectViewModel.swift */; };
 		23E960032AA0020800D77826 /* ChooseCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E960022AA0020800D77826 /* ChooseCity.swift */; };
-		23E960052AA0403B00D77826 /* new_file-31.riv in Resources */ = {isa = PBXBuildFile; fileRef = 23E960042AA0403B00D77826 /* new_file-31.riv */; };
-		23E960072AA042F100D77826 /* new_file-32.riv in Resources */ = {isa = PBXBuildFile; fileRef = 23E960062AA042F100D77826 /* new_file-32.riv */; };
-		23E960092AA0452400D77826 /* new_file-33.riv in Resources */ = {isa = PBXBuildFile; fileRef = 23E960082AA0452400D77826 /* new_file-33.riv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,13 +26,11 @@
 		2380D04E2A9F8C46009A6A5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2380D0512A9F8C46009A6A5A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2380D0592A9F8E86009A6A5A /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		23D608262AA1075A004640F4 /* new_file-36.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = "new_file-36.riv"; sourceTree = "<group>"; };
 		23E95FFA2A9FEBCC00D77826 /* CityModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CityModel.swift; sourceTree = "<group>"; };
 		23E95FFB2A9FEBCC00D77826 /* PittsburghWeatherModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PittsburghWeatherModel.swift; sourceTree = "<group>"; };
 		23E95FFF2A9FECB700D77826 /* WeatherProjectViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherProjectViewModel.swift; sourceTree = "<group>"; };
 		23E960022AA0020800D77826 /* ChooseCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseCity.swift; sourceTree = "<group>"; };
-		23E960042AA0403B00D77826 /* new_file-31.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = "new_file-31.riv"; sourceTree = "<group>"; };
-		23E960062AA042F100D77826 /* new_file-32.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = "new_file-32.riv"; sourceTree = "<group>"; };
-		23E960082AA0452400D77826 /* new_file-33.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = "new_file-33.riv"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +48,7 @@
 			isa = PBXGroup;
 			children = (
 				2380D04A2A9F8C40009A6A5A /* ExamplesListSWiftUIApp.swift */,
-				23E960042AA0403B00D77826 /* new_file-31.riv */,
-				23E960062AA042F100D77826 /* new_file-32.riv */,
-				23E960082AA0452400D77826 /* new_file-33.riv */,
+				23D608262AA1075A004640F4 /* new_file-36.riv */,
 				2380D0582A9F8E70009A6A5A /* WeatherProjectApp */,
 				23E95FF92A9FEBCC00D77826 /* Model */,
 				23E960012A9FECBF00D77826 /* View */,
@@ -182,9 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2380D0522A9F8C46009A6A5A /* Preview Assets.xcassets in Resources */,
-				23E960072AA042F100D77826 /* new_file-32.riv in Resources */,
-				23E960092AA0452400D77826 /* new_file-33.riv in Resources */,
-				23E960052AA0403B00D77826 /* new_file-31.riv in Resources */,
+				23D608272AA1075A004640F4 /* new_file-36.riv in Resources */,
 				2380D04F2A9F8C46009A6A5A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

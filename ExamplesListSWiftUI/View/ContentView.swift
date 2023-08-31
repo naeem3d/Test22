@@ -66,7 +66,7 @@ struct ContentView: View {
                 VStack {
                     let Temperature =   ((weatherViewModel.pitsbrughDataWeather?.main.temp ?? 0 ) - 273.15)
                     HStack {
-                        RiveViewModel(fileName: "new_file-33").view()
+                        RiveViewModel(fileName: "new_file-36").view()
                             .frame(width: 100, height: 80)
                             .padding()
                             
